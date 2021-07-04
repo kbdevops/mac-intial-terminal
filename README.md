@@ -1,4 +1,4 @@
-# This mini-script fetces basic commandline utilities and installs "Fino-Time" (ZSH theme), "Auto-completion" (ZSH plungin) and creates vim basic-conf file. 
+## This mini-script fetces basic commandline utilities and installs "Fino-Time" (ZSH theme), "Auto-completion" (ZSH plungin) and creates vim basic-conf file. 
 
 **To run, enter the following**
 
